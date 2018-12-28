@@ -1,0 +1,154 @@
+.modal-content.ui-resizable {
+  
+}
+#svg1 {
+      vertical-align: middle;
+      position: absolute;
+      z-index: 5;
+   }
+
+@font-face {
+   font-family: TAIFIB-MAR;
+   src: url(../fonts/TAIFIB-MAR.ttf);
+}
+@font-face {
+   font-family: IF-MAR;
+   src: url(../fonts/IF-MAR.ttf);
+}
+@font-face {
+   font-family: ANG-MAR;
+   src: url(../fonts/ANG-MAR.ttf);
+}
+@font-face {
+   font-family: ARHANUD-MAR;
+   src: url(../fonts/ARHANUD-MAR.ttf);
+}
+@font-face {
+   font-family: ARMED-MAR;
+   src: url(../fonts/ARMED-MAR.ttf);
+}
+@font-face {
+   font-family: HUB-MAR;
+   src: url(../fonts/HUB-MAR.ttf);
+}
+@font-face {
+   font-family: KES-MAR;
+   src: url(../fonts/KES-MAR.ttf);
+}
+@font-face {
+   font-family: PROV-MAR;
+   src: url(../fonts/PROV-MAR.ttf);
+}
+@font-face {
+   font-family: RANRATFIB-MAR;
+   src: url(../fonts/RANRATFIB-MAR.ttf);
+}
+@font-face {
+   font-family: RRF-MAR;
+   src: url(../fonts/RRF-MAR.ttf);
+}
+@font-face {
+   font-family: ZI-MAR;
+   src: url(../fonts/ZI-MAR.ttf);
+}
+@font-face {
+   font-family: taktis-dasar;
+   src: url(../fonts/taktis-dasar.ttf);
+}
+@font-face {
+   font-family: TAKTIS_AD;
+   src: url(../fonts/TAKTIS_AD.ttf);
+}
+@font-face {
+   font-family: TAKTIS_AL;
+   src: url(../fonts/TAKTIS_AL.ttf);
+}
+@font-face {
+   font-family: TAKTIS_AU;
+   src: url(../fonts/TAKTIS_AU.ttf);
+}
+@font-face {
+   font-family: TAKTIS_GABUNGAN;
+   src: url(../fonts/TAKTIS_GABUNGAN.ttf);
+}
+@font-face {
+   font-family: TAKTIS_POLRI;
+   src: url(../fonts/TAKTIS_POLRI.ttf);
+}
+@font-face {
+   font-family: taktis-dasar;
+   src: url(../fonts/taktis-dasar.ttf);
+}
+@font-face {
+   font-family: TandaTanda;
+   src: url(../fonts/TandaTanda.ttf);
+}
+@font-face {
+   font-family: TAKTIS_AD_2;
+   src: url(../fonts/TAKTIS_AD_2.ttf);
+}
+@font-face {
+   font-family: AL2;
+   src: url(../fonts/AL2.ttf);
+}
+@font-face {
+   font-family: AU2;
+   src: url(../fonts/AU2.ttf);
+}
+@font-face {
+   font-family: LASA;
+   src: url(../fonts/LASA.ttf);
+}
+@font-face {
+   font-family: sat-dasar;
+   src: url(../fonts/sat-dasar.ttf);
+}
+
+@font-face {
+   font-family: sat-fungsi;
+   src: url(../fonts/sat-fungsi.ttf);
+}
+@font-face {
+   font-family: IF;
+   src: url(../fonts/IF.ttf);
+}
+@font-face {
+   font-family: KAV;
+   src: url(../fonts/KAV.ttf);
+}
+@font-face {
+   font-family: ZI;
+   src: url(../fonts/ZI.ttf);
+}
+@font-face {
+   font-family: ARHANUD;
+   src: url(../fonts/ARHANUD.ttf);
+}
+@font-face {
+   font-family: ARMED;
+   src: url(../fonts/ARMED.ttf);
+}
+@font-face {
+   font-family: PENERBAD;
+   src: url(../fonts/PENERBAD.ttf);
+}
+@font-face {
+   font-family: BEKANG;
+   src: url(../fonts/BEKANG.ttf);
+}
+@font-face {
+   font-family: CAS;
+   src: url(../fonts/CAS.ttf);
+}
+@font-face {
+   font-family: PM;
+   src: url(../fonts/PM.ttf);
+}
+@font-face {
+   font-family: HUB;
+   src: url(../fonts/HUB.ttf);
+}
+@font-face {
+   font-family: KES;
+   src: url(../fonts/KES.ttf);
+}
